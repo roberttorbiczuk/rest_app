@@ -99,5 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
-/venv
+
+
+# idea
 .idea
+
+# Migrations in Django 
+rest_app/movies/migrations
